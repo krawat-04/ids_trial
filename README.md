@@ -1,2 +1,5 @@
-# ids_trial
-linking rstudio to git(hub)
+x <- 1
+y <- 7
+f <- 2*x + 3*y
+f
+
